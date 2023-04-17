@@ -35,9 +35,8 @@
 <hr style="width: 100%; margin-top: 20px; margin-bottom: 20px;" />
 
  <p align='center'>
-<img src="https://raw.githubusercontent.com/zeduard89/Deposito/main/perritoDev.png" alt="perritoDev" width='230rem' />
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=zeduard89&show_icons=true&locale=en&layout=compact" alt="zeduard89" width='230rem' heigth='300rem' />
-<img src="https://raw.githubusercontent.com/zeduard89/Deposito/main/perritoDev2.png" alt="perritoDev2" width='230rem'/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=zeduard89&show_icons=true&locale=en&layout=compact" alt="zeduard89" width='600rem' heigth='300rem' />
+<img src="https://raw.githubusercontent.com/zeduard89/Deposito/main/perritoDev2.png" alt="perritoDev2" width='600rem'/>
  </p>  
   
 
