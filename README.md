@@ -33,11 +33,11 @@
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=zeduard89" alt="zeduard89" />
  <p/> 
 <hr style="width: 100%; margin-top: 20px; margin-bottom: 20px;" />
- 
+
  <p aling='center'>
-<img src="https://raw.githubusercontent.com/zeduard89/Deposito/main/perritoDev.png" alt="perritoDev" width='300rem' />
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=zeduard89&show_icons=true&locale=en&layout=compact" alt="zeduard89" width='300rem'/>
-<img src="https://raw.githubusercontent.com/zeduard89/Deposito/main/perritoDev2.png" alt="perritoDev2" width='300rem'/>
+<img src="https://raw.githubusercontent.com/zeduard89/Deposito/main/perritoDev.png" alt="perritoDev" width='350rem' />
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=zeduard89&show_icons=true&locale=en&layout=compact" alt="zeduard89" width='350rem'/>
+<img src="https://raw.githubusercontent.com/zeduard89/Deposito/main/perritoDev2.png" alt="perritoDev2" width='350rem'/>
  </p>  
   
 
