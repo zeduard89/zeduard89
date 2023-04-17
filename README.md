@@ -5,7 +5,7 @@
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=zeduard89" alt="zeduard89" /></a> </p>
 
-- 🔭 I’m currently working on [rick and morty Cards](https://github.com/zeduard89/rickAndMortyCards.git)
+[- 🔭 I’m currently working on [rick and morty Cards](https://github.com/zeduard89/rickAndMortyCards.git)](url)
 
 - 🌱 I’m currently learning **react and nodeJs**
 
