@@ -35,17 +35,18 @@
   <div style="flex: 1; margin-left: 20px;">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=zeduard89" alt="zeduard89" />
   </div>
+  </div>
   
   <hr style="width: 100%; margin-top: 20px; margin-bottom: 20px;" />
   <div style="display: flex; flex-direction: row;">
     <div style="flex: 1; margin-right: 20px;">
-      <img src="https://raw.githubusercontent.com/zeduard89/Deposito/main/perritoDev.png" alt="perritoDev" width="100rem" />
+      <img src="https://raw.githubusercontent.com/zeduard89/Deposito/main/perritoDev.png" alt="perritoDev" width="150rem" />
     </div>
     <div style="flex: 1; margin-left: 20px; margin-right: 20px;">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=zeduard89&show_icons=true&locale=en&layout=compact" alt="zeduard89" width='100rem'/>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=zeduard89&show_icons=true&locale=en&layout=compact" alt="zeduard89" width='150rem'/>
     </div>
     <div style="flex: 1; margin-left: 20px;">
-      <img src="https://raw.githubusercontent.com/zeduard89/Deposito/main/perritoDev2.png" alt="perritoDev2" width="100rem" />
+      <img src="https://raw.githubusercontent.com/zeduard89/Deposito/main/perritoDev2.png" alt="perritoDev2" width="150rem" />
     </div>
   </div>
 </div>
