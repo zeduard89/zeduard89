@@ -39,7 +39,7 @@
   
   <hr style="width: 100%; margin-top: 20px; margin-bottom: 20px;" />
   
-  <div style="display: flex; flex-direction: row;">
+  <div style="display:flex;">
     <div style="flex: 1; margin-right: 20px;">
       <img src="https://raw.githubusercontent.com/zeduard89/Deposito/main/perritoDev.png" alt="perritoDev" width="300rem" />
     </div>
