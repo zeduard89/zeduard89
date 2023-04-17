@@ -32,4 +32,5 @@
 <img align="rigth" src="https://github-readme-stats.vercel.app/api/top-langs?username=zeduard89&show_icons=true&locale=en&layout=compact" alt="zeduard89" />
 </div>
  
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=zeduard89&" alt="zeduard89" /></p>
+<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=zeduard89&" alt="zeduard89" /></p>
+<p><img align="rigth" src="https://sp.depositphotos.com/479003318/stock-photo-dog-glasses-red-shirt-sits.html" alt="perritoDev" /></p>
