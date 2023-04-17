@@ -35,7 +35,7 @@
 
 
  <p align='center'>
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=zeduard89&show_icons=true&locale=en&layout=compact" alt="zeduard89" width='300rem'  />
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=zeduard89&show_icons=true&locale=en&layout=compact" alt="zeduard89" width='300rem' margin='0' />
 <img src="https://raw.githubusercontent.com/zeduard89/Deposito/main/perritoDev2.png" alt="perritoDev2" width='300rem'/>
  </p>  
   
