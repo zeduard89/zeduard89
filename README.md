@@ -29,8 +29,8 @@
 
 
 <p align='center'>
-<img src="https://github-readme-stats.vercel.app/api?username=zeduard89&show_icons=true&locale=en" alt="zeduard89" width='300rem' />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=zeduard89" alt="zeduard89" width='300rem'/>
+<img src="https://github-readme-stats.vercel.app/api?username=zeduard89&show_icons=true&locale=en" alt="zeduard89" width='600rem' />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=zeduard89" alt="zeduard89" width='600rem'/>
  <p/> 
 <hr style="width: 100%; margin-top: 20px; margin-bottom: 20px;" />
 
