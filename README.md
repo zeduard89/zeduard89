@@ -33,7 +33,7 @@
 </div>
 <div >
 <img align="right" src="https://raw.githubusercontent.com/zeduard89/Deposito/main/perritoDev.png" alt="perritoDev" width='300rem'/>
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=zeduard89&show_icons=true&locale=en&layout=compact" alt="zeduard89" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=zeduard89&show_icons=true&locale=en&layout=compact" alt="zeduard89" width='300rem'/>
 <img align="left" src='https://raw.githubusercontent.com/zeduard89/Deposito/main/perritoDev2.png' alt="perritoDev2" width='300rem'/>
 <div/>
 
