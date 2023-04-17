@@ -39,6 +39,7 @@
   <div style="flex: 1; margin-right: 20px;">
     <img src="https://raw.githubusercontent.com/zeduard89/Deposito/main/perritoDev.png" alt="perritoDev" width="300rem" />
   </div>
+  <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=zeduard89&" alt="zeduard89" /></p>
   <div style="flex: 1; margin-left: 20px;">
     <img src="https://raw.githubusercontent.com/zeduard89/Deposito/main/perritoDev2.png" alt="perritoDev2" width="300rem" />
   </div>
