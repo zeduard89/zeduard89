@@ -31,7 +31,7 @@
 <div aling='left'><img align="left" src="https://github-readme-stats.vercel.app/api?username=zeduard89&show_icons=true&locale=en" alt="zeduard89"  />
 <img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=zeduard89&" alt="zeduard89" />
 </div>
-<img align="right" src="https://unsplash.com/es/fotos/WX4i1Jq_o0Y" alt="zeduard89" />
+<img align="right" src="https://raw.githubusercontent.com/zeduard89/Deposito/main/perritoDev.png" alt="perritoDev" />
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=zeduard89&show_icons=true&locale=en&layout=compact" alt="zeduard89" />
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=zeduard89&show_icons=true&locale=en&layout=compact" alt="zeduard89" />
+<img align="right" src="https://raw.githubusercontent.com/usuario/repositorio/rama/ruta/al/asset" alt="zeduard89" />
 
