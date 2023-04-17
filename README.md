@@ -32,8 +32,9 @@
 <img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=zeduard89&" alt="zeduard89" />
 </div>
 <div >
+  <hr/>
 <img align="right" src="https://raw.githubusercontent.com/zeduard89/Deposito/main/perritoDev.png" alt="perritoDev" width='300rem'/>
-
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=zeduard89&show_icons=true&locale=en&layout=compact" alt="zeduard89" width='300rem'/>
 <img align="left" src='https://raw.githubusercontent.com/zeduard89/Deposito/main/perritoDev2.png' alt="perritoDev2" width='300rem'/>
 <div/>
 
