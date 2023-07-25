@@ -2,12 +2,24 @@
 <h2>¡Hola 👋, soy Guillermo Páez!</h2> 
 </div></br>
 
-## Acerca de mí
-- Soy un desarrollador FullStack especializado en JavaScript, React, Node y PostgresSQL.
-- 🌱 Actualmente estoy aprendiendo React y NodeJs.
-- 👨‍💻 Todos mis proyectos están disponibles en [Mi Portafolio](https://portfolio-seven-cyan-22.vercel.app/).
-- 📫 Puedes contactarme en zeduard89@gmail.com.
 
+  <a target="_blank" align="center">
+    <img align="right" top="500" height="300" width="400" alt="GIF" src="https://raw.githubusercontent.com/zeduard89/Deposito/main/PinginGIF.gif">
+  </a> 
+
+## Acerca de mí
+- 🔭  Soy un desarrollador FullStack especializado en JavaScript, React, Node y PostgresSQL.
+
+- 🌱 Actualmente estoy aprendiendo React y NodeJs.
+
+- 🤝 Estoy disponible para freelancing.
+
+- 👨‍💻 Todos mis proyectos están disponibles en [Mi Portafolio](https://portfolio-seven-cyan-22.vercel.app/).
+
+- 📫 Puedes contactarme en zeduard89@gmail.com. 
+
+
+</br>
 <h3 align="center">Languages and Tools:</h3>
 <p align="center"> 
 <img src="https://raw.githubusercontent.com/zeduard89/Deposito/main/javaScript.png" alt="javascript" width="40" height="40"/>
