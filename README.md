@@ -8,15 +8,17 @@
 - 👨‍💻 Todos mis proyectos están disponibles en [Mi Portafolio](https://portfolio-seven-cyan-22.vercel.app/).
 - 📫 Puedes contactarme en zeduard89@gmail.com.
 
-<h3>Lenguajes y herramientas que utilizo:</h3></br>
--HTML5 </br>
--CSS3 </br>
--JavaScript </br>
--TailwingCss </br>
--React </br>
--Node.js </br>
--PostgresSQL</br></br>
-<h3>Estadísticas de mi perfil de GitHub:</h3></br>
+<h3 align="center">Languages and Tools:</h3>
+<p align="center"> 
+<img src="https://raw.githubusercontent.com/zeduard89/Deposito/main/javaScript.png" alt="javascript" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/zeduard89/Deposito/main/nodeJs.png" alt="node" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/zeduard89/Deposito/main/sequelize.png" alt="sequelize" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/zeduard89/Deposito/main/postman.png" alt="scrum" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/zeduard89/Deposito/main/react.png" alt="react" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/zeduard89/Deposito/main/docker.png" alt="docker" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/zeduard89/Deposito/main/azure.png" alt="azure" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/zeduard89/Deposito/main/typescript.png" alt="typescript" width="40" height="40"/>
+</p>
 
 <p align='center'>
 <img src="https://github-readme-stats.vercel.app/api?username=zeduard89&show_icons=true&locale=es" alt="zeduard89" width='600rem' />
